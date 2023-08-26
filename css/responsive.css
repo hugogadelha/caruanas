@@ -508,7 +508,8 @@
         display: initial;
     }
     .banner_taital {
-        font-size: 50px;
+        font-size: 40px;
+        text-align: center;
     }
     .bg-light {
         background-color: transparent !important;
