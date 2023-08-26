@@ -536,8 +536,8 @@ button {
 
 .readmore_bt {
     width: 170px;
-    float: left;
-    margin-top: 50px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .readmore_bt a {
@@ -550,6 +550,7 @@ button {
     padding: 10px 0px;
     border-radius: 30px;
     font-weight: bold;
+    margin-top: 40px;
     text-transform: uppercase;
 }
 
